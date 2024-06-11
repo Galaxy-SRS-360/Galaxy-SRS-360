@@ -11,7 +11,9 @@ Welcome to my GitHub profile! I'm passionate about Robotics, Embedded Systems, I
 
 ## 🌱 Learning
 
-I'm currently diving into the world of Robotics Operating System (ROS) to expand my knowledge and skills.
+- I'm currently diving into the world of Robotics Operating System (ROS) to expand my knowledge and skills.
+- I'm learning about hardware firmware to better understand low-level software interactions with hardware.
+- I'm exploring emerging technologies like AI, edge computing, and IoT to see how they can be integrated with robotics.
 
 ## 💞️ Collaboration
 
